@@ -40,4 +40,4 @@ npm run dev
 Open `http://localhost:5173`
 
 ## Demo
-![AI Interview Coach](assets/demo.gif)
+![AI Interview Coach](frontend/src/assets/demo.gif)
